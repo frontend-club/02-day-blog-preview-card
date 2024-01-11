@@ -37,9 +37,9 @@ Se requiere desarrollar una **tarjeta de blog** con los datos que se muestran e
 
 El proyecto se encuentra alojado en un hosting gratuito(Netlify):
 
-- [Pagina web]()
-- [Codigo fuente]()
-- [Codepen]()
+- [Pagina web](https://fc-blog-preview-card.netlify.app/)
+- [Codigo fuente](https://github.com/frontend-club/02-day-blog-preview-card)
+- [Codepen](https://codepen.io/frontend-club/pen/dyrXqLP)
 
 ## Proceso de trabajo
 
